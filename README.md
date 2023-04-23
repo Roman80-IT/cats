@@ -1,5 +1,5 @@
-# cats <img align="left" alt="JavaScript" width="32px" src="https://github.com/Roman80-IT/cats/blob/main/img/cat-logo.svg" />
-<b>Котики)</b>
+# cats
+<b>Котики)<img align="left" alt="JavaScript" width="32px" src="https://github.com/Roman80-IT/cats/blob/main/img/cat-logo.svg" /></b>
 <br>
 Посилання на макет - <a href="figma.com/file/wkQH152m80vAF42O4xLrBN/DSGN?node-id=19-82&t=RkUJim8c4TYseZCy-0"><b>(figma)</b></a>
 <br>
